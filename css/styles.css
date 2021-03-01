@@ -1,0 +1,11 @@
+
+
+body{
+  text-align: center;
+}
+
+#budget{
+  border: 2px solid blue;
+  width: 400px;
+  margin: auto;
+}
